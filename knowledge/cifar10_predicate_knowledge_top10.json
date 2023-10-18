@@ -1,0 +1,264 @@
+{
+    "0": {
+        "positive_statements": [
+            "a photo of midplane",
+            "a photo of circular plane",
+            "a photo of real plane",
+            "a photo of plane",
+            "a photo of tailplane",
+            "a photo of warplane",
+            "a photo of antiplane",
+            "a photo of aeronautics",
+            "a photo of a jet aeroplane",
+            "a photo of military airplane"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2
+        ]
+    },
+    "1": {
+        "positive_statements": [
+            "a photo of auto transport truck",
+            "a photo of same a automobile",
+            "a photo of pass another car",
+            "a photo of pass other car",
+            "a photo of english car",
+            "a photo of toyota automobile",
+            "a photo of kia car",
+            "a photo of austin car",
+            "a photo of american car",
+            "a photo of electric car"
+        ],
+        "relations": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "2": {
+        "positive_statements": [
+            "a photo of caprimulgiform bird",
+            "a photo of gallinaceous bird",
+            "a photo of piciform bird",
+            "a photo of coraciiform bird",
+            "a photo of ornithophobic",
+            "a photo of ornithochorous",
+            "a photo of queer bird",
+            "a photo of bristlebird",
+            "a photo of ornithic",
+            "a photo of antibird"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "3": {
+        "positive_statements": [
+            "a photo of miaow",
+            "a photo of she cat",
+            "a photo of furkid",
+            "a photo of he cat",
+            "a photo of felinus",
+            "a photo of male cat",
+            "a photo of felinity",
+            "a photo of catgirl",
+            "a photo of catlike",
+            "a photo of catperson"
+        ],
+        "relations": [
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ]
+    },
+    "4": {
+        "positive_statements": [
+            "a photo of pere david's deer",
+            "a photo of elk",
+            "a photo of red deer",
+            "a photo of sika deer",
+            "a photo of tufted deer",
+            "a photo of sitka deer",
+            "a photo of rusa deer",
+            "a photo of odocoileus",
+            "a photo of black tailed deer",
+            "a photo of south andean deer"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "5": {
+        "positive_statements": [
+            "a photo of dog ",
+            "a photo of puppy",
+            "a photo of woof woof",
+            "a photo of rescue dog",
+            "a photo of furkid",
+            "a photo of female dog",
+            "a photo of designer dog",
+            "a photo of \u72ac",
+            "a photo of singing dog",
+            "a photo of outside dog"
+        ],
+        "relations": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "6": {
+        "positive_statements": [
+            "a photo of robber frog",
+            "a photo of tailed frog",
+            "a photo of western clawed frog",
+            "a photo of rain frog",
+            "a photo of bouchia clawed frog",
+            "a photo of tukeit hill frog",
+            "a photo of mawa clawed frog",
+            "a photo of shovelnose frog",
+            "a photo of spikethumb frog",
+            "a photo of african clawed frog"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "7": {
+        "positive_statements": [
+            "a photo of polo pony",
+            "a photo of saddle horse",
+            "a photo of male horse",
+            "a photo of neigh",
+            "a photo of equestrian",
+            "a photo of hors",
+            "a photo of riding a horse",
+            "a photo of masque cheval",
+            "a photo of riding horse",
+            "a photo of superhorse"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "8": {
+        "positive_statements": [
+            "a photo of sailing vessel",
+            "a photo of fishing vessel",
+            "a photo of blockship",
+            "a photo of seamanship",
+            "a photo of passenger ship",
+            "a photo of sailing ship",
+            "a photo of abandoned ship",
+            "a photo of small ship",
+            "a photo of ancient naval ship",
+            "a photo of steamship"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    },
+    "9": {
+        "positive_statements": [
+            "a photo of auto transport truck",
+            "a photo of trailer truck",
+            "a photo of tractor trailer",
+            "a photo of supply truck",
+            "a photo of five ton truck",
+            "a photo of refrigerator truck",
+            "a photo of housetruck",
+            "a photo of tiller truck",
+            "a photo of semi-truck",
+            "a photo of fuel truck",
+            "a photo of gas truck"
+        ],
+        "relations": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ]
+    }
+}
